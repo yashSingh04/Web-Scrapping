@@ -1,0 +1,5 @@
+pip install fastapi 
+pip install requests
+pip install pandas as pd
+pip install streamlit
+pip install uvicorn 
